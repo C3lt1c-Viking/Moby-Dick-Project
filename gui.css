@@ -1,0 +1,120 @@
+/*
+
+Google Fonts;
+font-family: 'Anton', sans-serif;
+font-family: 'Cinzel', serif;
+font-family: 'Crimson Text', serif;
+font-family: 'Orbitron', sans-serif;
+*/
+
+
+/* Start Intro Section Customized UI/UX */
+
+  /* Customize the Container Element for Intro Section */
+  .intro_container
+  {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    border: 3px solid #000;
+    padding: 15px;
+    box-shadow: 15px 15px 20px #C0C0C0;
+  }
+
+  /* Setup Custom Fonts for Intro Header */
+  .int_header
+  {
+    font-family: 'Crimson Text', serif;
+    font-size: 30px;
+    color: #000;
+    text-align: left;
+  }
+
+  /* Setup Custom Fonts for Intro Paragraph */
+  .int_paragraph
+  {
+    font-family: 'Cinzel', serif;
+    font-size: 20px;
+    color: #000;
+    text-align: left;
+  }
+/* End Intro Section Customized UI/UX */
+
+/* Start Example Example UI/UX */
+
+  /* Customize the Container Element for Project 1 */
+  .ex_container
+  {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    border: 3px solid #0F0;
+    padding: 15px;
+    box-shadow: 15px 15px 20px #355E3B;
+  }
+
+  /* Setup Custom Fonts for Example 1 Header */
+  .ex_header
+  {
+    font-family: 'Crimson Text', serif;
+    font-size: 30px;
+    color: #000;
+    text-align: left;
+  }
+
+  /* Setup Custom Fonts for Example 1 Paragraph */
+  .ex_paragraph
+  {
+    font-family: 'Cinzel', serif;
+    font-size: 15px;
+    color: #000;
+    text-align: left;
+  }
+
+  /* Setup Custom Fonts for Example 1 Code Header */
+  .ex_code_title
+  {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 20px;
+    color: #000;
+    text-align: center;
+  }
+/* End Example Example UI/UX */
+
+/* Start Project UI/UX */
+
+  /* Customize the Container Element for Project */
+  .pr_container
+  {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    border: 3px solid #00F;
+    padding: 15px;
+    box-shadow: 15px 15px 20px #7DF9FF;
+  }
+
+  /* Setup Custom Fonts for Project Header */
+  .pr_header
+  {
+    font-family: 'Crimson Text', serif;
+    font-size: 30px;
+    color: #000;
+    text-align: left;
+  }
+
+  /* Setup Custom Fonts for Project Paragraph */
+  .pr_paragraph
+  {
+    font-family: 'Cinzel', serif;
+    font-size: 15px;
+    color: #000;
+    text-align: left;
+  }
+
+  /* Setup Custom Fonts for Project Code Header */
+  .pr_code_title
+  {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 20px;
+    color: #000;
+    text-align: center;
+  }
+/* End Project UI/UX */
