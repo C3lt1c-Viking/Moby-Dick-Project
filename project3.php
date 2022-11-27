@@ -8,12 +8,13 @@
     <i>Text content is from the file "mobydick.txt"</i>
   </p>
   <h4 class="pr_code_title">
-    Here is the output of the top 100 words;<br/>
+    Here is the output of the top 100 words with Stop Words added;<br/>
     <br/>
-    <button onclick="pr2Function()" class="btn btn-primary btn-lg">Click to show results</button>
+    <button onclick="pr3Function()" class="btn btn-primary btn-lg">Click to show results</button>
   </h4>
-  <!-- Start Div element to hide/show results -->
-  <div id="pr2DIV" style="display: none">
+
+  <!-- Start div element to hide/show results -->
+  <div id="pr3DIV" style="display: none">
     <!-- Start PHP Project -->
     <?php
     // Pull contents from the Moby Dick Text File //

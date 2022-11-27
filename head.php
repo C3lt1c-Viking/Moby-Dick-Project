@@ -18,4 +18,7 @@
 
   <!-- Add Custom CSS -->
   <link rel="stylesheet" href="gui.css">
+
+  <!-- Add Custom JS -->
+  <script src="functions.js"></script>
 </head>
